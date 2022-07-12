@@ -81,3 +81,5 @@ Notice the p-values of each table are low and will require us to reject the hypo
 # Discussion and Conclusion
 
 <!--Discussion and conclusion here.  If you found a relationship be sure to consider whether the relationship occurs because one of the variavbles causes the other, or whether they perhasps are related for some other reason.  Watch the chapter 6 videos from the GeorgeTown videos collection.!-->
+
+After looking at all the data and seeing the outcome, not only are we rejecting the hypothesis that states there is no difference, we are agreeing with the statement that says there is a difference. I do not recommend taking the drug as it is shown to help females catch aids rather then preventing it.  
