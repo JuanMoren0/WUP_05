@@ -76,7 +76,7 @@ chisqtestGC(table1)
 fisher.test(table1)
 ```
 
-Notice the p-values of each table are low and will require us to
+Notice the p-values of each table are low and will require us to reject the hypothesis that state there is no difference between the drug and placebo that will help females prevent getting aids.  
 
 # Discussion and Conclusion
 
