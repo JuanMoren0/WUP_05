@@ -47,7 +47,7 @@ barchartGC(~infected + treatment,data=Females, type="percent")
 
 ```
 
-
+As shown in the graph above it turns out that the people who have taken the drug turned out to be the ones who got aids.  
 
 ### Numerical Descriptive Results
 
